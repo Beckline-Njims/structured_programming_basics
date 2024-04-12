@@ -27,7 +27,7 @@ The program assumes that the user will only input a single character.
 
 
 
-structured_programming_basics/payment.c
+#structured_programming_basics/payment.c
 The program takes the following inputs:
 
 balance: The initial balance of the debt.
@@ -55,7 +55,7 @@ You can customize this README with any additional information or instructions yo
 
 
 
-structured_programming_basics/remainder.c
+#structured_programming_basics/remainder.c
 a: The dividend.
 b: The divisor.
 It then calculates the remainder when a is divided by b using the formula remainder = a - b * (a / b). The remainder is then displayed on the console.
@@ -82,7 +82,7 @@ If b is zero, the program may produce unexpected results or encounter a runtime 
 
 
 
-structured_programming_basics/reverse.c
+#structured_programming_basics/reverse.c
 The program takes an integer input from the user and reverses its digits. It follows these steps:
 
 Take an integer input from the user (n).
@@ -112,7 +112,7 @@ The program assumes that the entered integer does not contain leading zeros.
 Negative numbers are also accepted, and the program will reverse their digits accordingly.
 
 
-structured_programming_basics/star.c
+#structured_programming_basics/star.c
 The program prompts the user to enter the number of rows for the pyramid. It then prints a pyramid pattern using asterisks (*). The pattern is constructed as follows:
 
 For each row i from 1 to the specified number of rows:
@@ -141,7 +141,7 @@ Enter number of rows: 3
 Note
 The program assumes that the user will input a positive integer for the number of rows.
 The program may not handle extremely large input values gracefully due to memory constraints or display limitations.
-structured_programming_basics/sum.c
+#structured_programming_basics/sum.c
 The program prompts the user to enter a three-digit number. It then calculates the sum of the digits of that number. The program operates as follows:
 
 Prompt the user to enter a three-digit number.
