@@ -1,7 +1,4 @@
 # structures_programming_basics/character.c
-Here we will be talking about tree data structures and tranversal algorithms alongside their impacts.
-The program prompts the user to enter a single character. It then determines whether the entered character is a small letter, a capital letter, a digit, or a special character.
-
 If the entered character is a small letter (a-z), it displays that it's a small letter.
 If the entered character is a capital letter (A-Z), it displays that it's a capital letter.
 If the entered character is a digit (0-9), it displays that it's a digit.
