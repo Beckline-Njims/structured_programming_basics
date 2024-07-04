@@ -1,0 +1,46 @@
+body{
+    background-color: blanchedalmond;
+    background-size: cover;
+}
+#pic{
+    border: solid;
+    margin: 2px;
+    margin-left: 500px;
+    padding: 70px;
+    width: 8%;
+    height:30%;
+    border-radius: 100% 100% 100% 100%;
+    background-image: url("images/im.jpg");
+    background-size: contain;
+
+}
+#to,#hey,#go,#mode,#done,#no{
+    border: solid;
+    padding: 2px;
+    margin: 4px;
+    border-radius: 10px 10px 10px 10px;
+}
+#to{
+    border-color: blue;
+    border-radius: 10px 10px 10px 10px;
+}
+#hey{
+    border-color: brown;
+    border-radius: 10px 10px 10px 10px;
+}
+#go{
+    border-color: aqua;
+    border-radius: 10px 10px 10px 10px;
+}
+#mode{
+    border-color: greenyellow;
+    border-radius: 10px 10px 10px 10px;
+}
+#no{
+    border-color: pink;
+    border-radius: 10px 10px 10px 10px;
+}
+#hi{
+    margin-left: 1000px;
+    margin:1px;
+}
